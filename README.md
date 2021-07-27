@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![seekhow github stats](https://github-readme-stats.vercel.app/api?username=seekhow&show_icons=true&theme=radical)](https://github.com/seekhow)
+[![seekhow github stats](https://github-readme-stats.vercel.app/api/top-langs?username=seekhow&layout=compact&theme=radical)](https://github.com/seekhow)
+
 <!--
 **seekhow/seekhow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
